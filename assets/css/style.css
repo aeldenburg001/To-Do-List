@@ -1,0 +1,28 @@
+h1 {
+    color:teal;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+button {
+    color: white;
+    background: teal;
+    margin: 5px;
+    padding: 5px;
+}
+#todo-item {
+  color: teal;
+  margin: 5px;
+  padding: 5px;
+}
+#to-do {
+  margin: 5px;
+  padding: 5px;
+}
+#add-to-do {
+  text-align: center;
+  color: teal;
+  margin: 5px;
+  padding: 5px;
+}
